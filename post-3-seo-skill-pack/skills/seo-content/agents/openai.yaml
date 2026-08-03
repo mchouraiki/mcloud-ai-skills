@@ -1,0 +1,13 @@
+interface:
+  display_name: Seo Content
+  short_description: Content quality and E-E-A-T analysis with AI citation readiness
+  default_prompt: Use $seo-content to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

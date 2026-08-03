@@ -1,0 +1,14 @@
+interface:
+  display_name: Seo Programmatic
+  short_description: Programmatic SEO planning and analysis for pages generated at
+    sc
+  default_prompt: Use $seo-programmatic to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

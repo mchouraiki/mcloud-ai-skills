@@ -1,0 +1,14 @@
+interface:
+  display_name: Seo Content Brief
+  short_description: Generate competitive SEO content briefs with per-section word
+    co
+  default_prompt: Use $seo-content-brief to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

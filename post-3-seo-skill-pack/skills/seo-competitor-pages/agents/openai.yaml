@@ -1,0 +1,15 @@
+interface:
+  display_name: Seo Competitor Pages
+  short_description: Generate SEO-optimized competitor comparison and alternatives
+    pa
+  default_prompt: Use $seo-competitor-pages to apply this workflow to the supplied
+    task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

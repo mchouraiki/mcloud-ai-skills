@@ -1,0 +1,13 @@
+interface:
+  display_name: Seo Page
+  short_description: Deep single-page SEO analysis covering on-page elements, content
+  default_prompt: Use $seo-page to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,14 @@
+interface:
+  display_name: Seo Ecommerce
+  short_description: 'E-commerce SEO analysis: Google Shopping visibility, Amazon
+    mark'
+  default_prompt: Use $seo-ecommerce to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

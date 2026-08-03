@@ -1,0 +1,13 @@
+interface:
+  display_name: Seo Plan
+  short_description: Strategic SEO planning for new or existing websites. Industry-sp
+  default_prompt: Use $seo-plan to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

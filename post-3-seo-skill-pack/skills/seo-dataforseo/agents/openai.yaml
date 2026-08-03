@@ -1,0 +1,13 @@
+interface:
+  display_name: Seo Dataforseo
+  short_description: 'Live SEO data via DataForSEO MCP server: SERP analysis, keyword'
+  default_prompt: Use $seo-dataforseo to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

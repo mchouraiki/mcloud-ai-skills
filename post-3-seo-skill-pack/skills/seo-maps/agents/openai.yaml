@@ -1,0 +1,14 @@
+interface:
+  display_name: Seo Maps
+  short_description: 'Maps intelligence for local SEO: geo-grid rank tracking, GBP
+    pro'
+  default_prompt: Use $seo-maps to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

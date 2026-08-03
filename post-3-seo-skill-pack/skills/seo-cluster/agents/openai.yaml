@@ -1,0 +1,14 @@
+interface:
+  display_name: Seo Cluster
+  short_description: SERP-based semantic topic clustering for content architecture
+    pl
+  default_prompt: Use $seo-cluster to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

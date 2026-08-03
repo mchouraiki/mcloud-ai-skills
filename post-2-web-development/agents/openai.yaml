@@ -1,0 +1,13 @@
+interface:
+  display_name: Web Development
+  short_description: Practical web development and review
+  default_prompt: Use $web-development to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

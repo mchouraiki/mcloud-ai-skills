@@ -1,0 +1,14 @@
+interface:
+  display_name: Seo Geo
+  short_description: Optimize content for AI Overviews (formerly SGE), ChatGPT web
+    se
+  default_prompt: Use $seo-geo to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

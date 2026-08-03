@@ -1,0 +1,14 @@
+interface:
+  display_name: Seo Image Gen
+  short_description: 'AI image generation for SEO assets: OG/social preview images,
+    bl'
+  default_prompt: Use $seo-image-gen to apply this workflow to the supplied task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
