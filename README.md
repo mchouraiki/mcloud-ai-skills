@@ -8,7 +8,7 @@ The guide is written mainly for people using ChatGPT and Codex to perform repeat
 
 ## Read the complete guide
 
-[Read the full guide on MCloud Solutions](https://mcloudsolutions.net/guides/create-reusable-ai-skill-skill-md-core-guidance/)
+[Read the full guide on MCloud Solutions](https://mcloudsolutions.net/guides/how-i-create-reusable-ai-skills-with-skill-md/)
 
 The website article is the main explanation. This repository contains the reusable files and download package that support it.
 
