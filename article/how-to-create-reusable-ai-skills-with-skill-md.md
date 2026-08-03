@@ -1,5 +1,7 @@
 # How to Create Reusable AI Skills with SKILL.md
 
+> Original article: [MCloud Solutions](https://mcloudsolutions.net/guides/create-reusable-ai-skill-skill-md-core-guidance/)
+
 AI becomes much more useful when it understands how you want recurring work done.
 
 If every website audit, code review or infrastructure task starts with the same long prompt, the process is not reusable yet. The better approach is to turn that working method into a small, versioned package that an AI agent can discover and load when needed.
