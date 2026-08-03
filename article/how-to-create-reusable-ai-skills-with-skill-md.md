@@ -1,6 +1,6 @@
 # How to Create Reusable AI Skills with SKILL.md
 
-> Original article: [MCloud Solutions](https://mcloudsolutions.net/guides/create-reusable-ai-skill-skill-md-core-guidance/)
+> Original article: [MCloud Solutions](https://mcloudsolutions.net/guides/how-i-create-reusable-ai-skills-with-skill-md/)
 
 AI becomes much more useful when it understands how you want recurring work done.
 
@@ -231,7 +231,7 @@ Use the files as a starting point, then adapt the boundaries, validation steps a
 
 ## What comes next
 
-This is the first article in a three-part series. The next article covers safer web development workflows, followed by a practical SEO skill pack for technical SEO, content and website audits.
+This is the first article in a three-part series. The next articles cover safer web development workflows and a practical SEO skill pack for technical SEO, content and website audits.
 
 ## ChatGPT, Codex and OpenCode compatibility
 
@@ -360,10 +360,10 @@ Put permanent working principles in shared core guidance. Put one repeatable wor
 
 That structure is small enough to maintain, clear enough to test and portable enough to use across modern AI coding and agent tools.
 
-The next two posts will apply the same model to practical work. Their links will be added here after publication:
+The next two posts apply the same model to practical work:
 
-- Using AI Skills for Safer Web Development
-- Using AI Skills for Technical SEO, Content and Website Audits
+- [Using AI Skills for Safer Web Development](https://mcloudsolutions.net/guides/ai-skill-safer-web-development/)
+- [Using AI Skills for Technical SEO, Content and Website Audits](https://mcloudsolutions.net/guides/ai-skills-technical-seo-content-website-audits/)
 
 Download the generic core guidance template and use it as the starting point for your own workflow library.
 
