@@ -1,10 +1,16 @@
 # How to Create Reusable AI Skills with `SKILL.md`
 
-This repository contains the practical files for the MCloud Solutions guide:
+This repository contains the reusable files supporting the MCloud Solutions guide:
 
 **How to Create Reusable AI Skills with `SKILL.md`**
 
 The guide is written mainly for people using ChatGPT and Codex to perform repeated technical work. It also explains how the same instruction structure can be adapted for OpenCode, local LLM wrappers and other compatible AI agents.
+
+## Read the complete guide
+
+[Read the full guide on MCloud Solutions](https://mcloudsolutions.net/guides/create-reusable-ai-skill-skill-md-core-guidance/)
+
+The website article is the main explanation. This repository contains the reusable files and download package that support it.
 
 ## What this gives you
 
@@ -62,14 +68,6 @@ This guide is the foundation for the series:
 3. **Using AI Skills for Technical SEO, Content and Website Audits**
 
 The second and third guides will be published as separate packages. They are not included here.
-
-## Website
-
-Read the complete guide on MCloud Solutions:
-
-https://mcloudsolutions.net/guides/create-reusable-ai-skill-skill-md-core-guidance/
-
-The website article is the main explanation. This repository contains the reusable files and download package that support it.
 
 ## License and attribution
 
